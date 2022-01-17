@@ -1,3 +1,13 @@
 # PetShop
 
-1)clone repo 2) npm install @openzeppelin/contracts 3) run ganche 4) run truffle compile 5) run truffle migrate 6) cd app 7) run npm install 8) run npm start 9) app will start on localhost 3000 10) configure ganache with metamask 11) 1st account will be owner of token contract 12) only owner could create Pet NFTs 13) other addresses can buy those NFTs 14) next step is to deploy on ropsten
+clone repo
+npm install @openzeppelin/contracts
+run ganche
+run truffle compile 
+run truffle migrate 
+cd app 
+run npm install 
+run npm start  {app will start on localhost 3000}
+configure ganache with metamask 
+First account will be owner of token contract, only owner could create Pet NFTs and other addresses can buy those NFTs.
+At the end just deploy on ropsten network.
